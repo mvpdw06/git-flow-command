@@ -1,4 +1,3 @@
-console.log('prod');
-
+console.log('dev');
 
 console.log('hotfix');
