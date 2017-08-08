@@ -1,1 +1,1 @@
-console.log('prod');
+console.log('uat');
