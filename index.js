@@ -1,3 +1,3 @@
-console.log('uat');
+console.log('dev');
 
 console.log('hotfix');
